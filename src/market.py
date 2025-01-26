@@ -1,3 +1,5 @@
+from coins import INTLGNTcoin, Stupidcoin
+
 class Market:
     def __init__(self):
         self.intelligent_coin = INTLGNTcoin()
