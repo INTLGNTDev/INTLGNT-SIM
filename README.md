@@ -13,13 +13,16 @@ Our simulation includes:
 - **Meme Pumps**: Random events mimicking the viral nature of meme coins.
 - **Hidden Secrets**: Easter eggs for the curious and dedicated explorer.
 
-## Getting Started
+**Stimulate your INTLGNT and simulate your strategy**  
+A fun and educational simulation of the crypto market where INTLGNTcoin battles Stupidcoin. The aim is to visually and programmatically illustrate the impact of different investment approaches in a market environment.
 
-### Prerequisites
+### Getting Started
+
+#### Prerequisites
 
 - Python 3.x
 
-### Installation
+#### Installation
 
 1. Clone the repository:
    ```bash
